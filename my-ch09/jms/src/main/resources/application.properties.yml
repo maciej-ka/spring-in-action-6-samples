@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: jms
+  artemis:
+    broker-url: "localhost:61616"
